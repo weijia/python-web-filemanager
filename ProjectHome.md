@@ -1,0 +1,1 @@
+A file manager written in python. Operates file in web browser. Installation guide are located at: http://blog.sina.com.cn/s/blog_538546fe0100q6ob.html
